@@ -35,3 +35,6 @@ Complément Partie 3 (Voting) :
 |---|---:|---:|---|
 | Voting (hard) | 0.924 | 0.61 | Vote sur la classe majoritaire. |
 | Voting (soft) | 0.938 | 0.69 | Moyenne des probabilités, meilleur que le hard voting. |
+
+
+Plus de details de l'execution des algorithmes et resltat des testes sont visible sur github sur le notebook "lab_ensemble_cohorte.ipynb"
